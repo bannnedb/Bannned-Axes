@@ -90,16 +90,7 @@ questions = [
         }
     },
     {
-        "question": "Basic utilities like roads and electricity should be publicly owned.",
-        "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Government intervention is a threat to the economy.",
+        "question": "I prioritise equality of oppurtunity over equality of outcome.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -108,7 +99,7 @@ questions = [
         }
     },
     {
-        "question": "Those with a greater ability to pay should receive better healthcare.",
+        "question": "Privitisation is needed to make an economy thrive.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -117,18 +108,27 @@ questions = [
         }
     },
     {
-        "question": "Quality education is a right of all people.",
+        "question": "Free trade is bad because it endangers our national sovreignty.",
         "effect": {
             "econ": 10,
-            "dipl": 0,
+            "dipl": -10,
             "govt": 0,
-            "scty": 5
+            "scty": 0
         }
     },
     {
-        "question": "The means of production should belong to the workers who use them.",
+        "question": "The rich do not pay their fair share.",
         "effect": {
-            "econ": 10,
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "There should be environmental regulations.",
+        "effect": {
+            "econ": 5,
             "dipl": 0,
             "govt": 0,
             "scty": 0
