@@ -1,10 +1,10 @@
 questions = [
     {
-        "question": "The government should not be able to impose a curfew or restrict law-abiding citizens from leaving their homes.",
+        "question": "The existance of private property benefits the rich exclusively.",
         "effect": {
             "econ": 10,
             "dipl": 0,
-            "govt": -5,
+            "govt": 0,
             "scty": 0
         }
     },
