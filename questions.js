@@ -45,16 +45,16 @@ questions = [
         }
     },
     {
-        "question": "Tariffs on international trade are important to encourage local production.",
+        "question": "Private Charity is a bad thing, as it prevents the masses from reaching the conditions that cause revolution.",
         "effect": {
-            "econ": 5,
+            "econ": 15,
             "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "govt": 0,
+            "scty": 5
         }
     },
     {
-        "question": "From each according to his ability, to each according to his needs.",
+        "question": "The practice of usury should be banned.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -63,16 +63,16 @@ questions = [
         }
     },
     {
-        "question": "It would be best if social programs were abolished in favor of private charity.",
+        "question": "Selfishness, when it relates to economy, should be rewarded.",
         "effect": {
-            "econ": -10,
+            "econ": -15,
             "dipl": 0,
             "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "Taxes should be increased on the rich to provide for the poor.",
+        "question": "It is immoral for the government to allow billionaires to exist.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -81,12 +81,12 @@ questions = [
         }
     },
     {
-        "question": "Inheritance is a legitimate form of wealth.",
+        "question": "I support an estate tax.",
         "effect": {
-            "econ": -10,
+            "econ": 10,
             "dipl": 0,
             "govt": 0,
-            "scty": -5
+            "scty": 0
         }
     },
     {
