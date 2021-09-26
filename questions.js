@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "The government should not be able to impose a curfew or restrict law-abiding citizens from leaving their homes.",
         "effect": {
             "econ": 10,
             "dipl": 0,
