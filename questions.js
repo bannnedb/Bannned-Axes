@@ -99,7 +99,7 @@ questions = [
         }
     },
     {
-        "question": "Privitisation is needed to make an economy thrive.",
+        "question": "Privatisation is needed to make an economy thrive.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -171,7 +171,7 @@ questions = [
         }
     },
     {
-        "question": "Nobody should be denied passage in a nation.",
+        "question": "Nobody should be denied entry into a nation.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -189,7 +189,7 @@ questions = [
         }
     },
     {
-        "question": "Governmental policies do not need to be justified to foreign countries.",
+        "question": "Governmental policies do not need to be justified to foreigners.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -270,7 +270,7 @@ questions = [
         }
     },
     {
-        "question": "A government that cannot preveserve law and order is illegitimate.",
+        "question": "A government that cannot preserve law and order is illegitimate.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -342,7 +342,7 @@ questions = [
         }
     },
     {
-        "question": "There is no morality beyond each individual's desires.",
+        "question": "There is no morality beyond each individual's own desires.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -396,7 +396,7 @@ questions = [
         }
     },
     {
-        "question": "The government shouldn't be able to put people to death.",
+        "question": "The government shouldn't be able to put citizens to death.",
         "effect": {
             "econ": 0,
             "dipl": 0,
