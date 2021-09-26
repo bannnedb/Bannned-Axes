@@ -9,7 +9,7 @@ questions = [
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "question": "Regulations almost always improve the economy.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -18,7 +18,7 @@ questions = [
         }
     },
     {
-        "question": "The freer the markets, the freer the people.",
+        "question": "Excessive bureaucracy poses a servere threat to the economy.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -27,7 +27,7 @@ questions = [
         }
     },
     {
-        "question": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+        "question": "In a capitalist system, only those who work hard can succeed.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -36,12 +36,12 @@ questions = [
         }
     },
     {
-        "question": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
+        "question": "Protectionism is sometimes necessary in trade.",
         "effect": {
             "econ": 10,
-            "dipl": 0,
+            "dipl": -10,
             "govt": 0,
-            "scty": 10
+            "scty": 0
         }
     },
     {
