@@ -567,25 +567,7 @@ questions = [
         }
     },
     {
-        "question": "Maintaining family values is essential.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
-        }
-    },
-    {
-        "question": "To chase progress at all costs is dangerous.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
-        }
-    },
-    {
-        "question": "Genetic modification is a force for good, even on humans.",
+        "question": "We must liberate ourselves from the ways of the past.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -594,16 +576,34 @@ questions = [
         }
     },
     {
-        "question": "We should open our borders to immigration.",
+        "question": "Animals should not have rights.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
-            "govt": 10,
-            "scty": 0
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
         }
     },
     {
-        "question": "Governments should be as concerned about foreigners as they are about their own citizens.",
+        "question": "People today are better than people in the past were.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
+    {
+        "question": "The concept of a nation is outdated.",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 5
+        }
+    },
+    {
+        "question": "Transgenderism is a mental illness.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -612,21 +612,21 @@ questions = [
         }
     },
     {
-        "question": "All people - regardless of factors like culture or sexuality - should be treated equally.",
+        "question": "Factors such as race and sexuality do not effect a person's worth.",
         "effect": {
-            "econ": 10,
-            "dipl": 10,
-            "govt": 10,
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
             "scty": 10
         }
     },
     {
-        "question": "It is important that we further my group's goals above all others.",
+        "question": "Homosexuality and pedophilia are related.",
         "effect": {
-            "econ": -10,
-            "dipl": -10,
-            "govt": -10,
-            "scty": -10
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -15
         }
     }
 ];
