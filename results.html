@@ -210,7 +210,10 @@
         ctx.fillText("Civil Axis: " + document.getElementById("state-label").innerHTML, 400, 415)
         ctx.fillText("Societal Axis: " + document.getElementById("society-label").innerHTML, 400, 535)
 
-        document.getElementById("banner").src = c.toDataURL();
+	    var c=document.getElementById("alpha");
+var d=c.toDataURL("image/png");
+var w=window.open('about:blank','image from canvas');
+w.document.write("<img src='"+d+"' alt='from canvas'/>");
     }
     </script>
 </body>
