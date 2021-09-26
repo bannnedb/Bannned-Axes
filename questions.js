@@ -126,7 +126,7 @@ questions = [
         }
     },
     {
-        "question": "There should be environmental regulations.",
+        "question": "Environmental regulations benefit society.",
         "effect": {
             "econ": 5,
             "dipl": 0,
