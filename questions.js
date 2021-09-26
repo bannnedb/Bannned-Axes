@@ -135,43 +135,43 @@ questions = [
         }
     },
     {
-        "question": "The United Nations should be abolished.",
+        "question": "I support a ban, temporary or permanent, on all immigration.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
-            "govt": -5,
+            "dipl": -15,
+            "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "Military action by our nation is often necessary to protect it.",
+        "question": "Outsourcing is a terrible aspect of capitalism that should be fought.",
         "effect": {
-            "econ": 0,
+            "econ": 5,
             "dipl": -10,
-            "govt": -10,
+            "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "I support regional unions, such as the European Union.",
+        "question": "The European Parliment needs more power.",
         "effect": {
-            "econ": -5,
+            "econ": 0,
             "dipl": 10,
             "govt": 10,
             "scty": 5
         }
     },
     {
-        "question": "It is important to maintain our national sovereignty.",
+        "question": "Our nation is superior to all others.",
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": -5,
+            "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "A united world government would be beneficial to mankind.",
+        "question": "Nobody should be denied passage in a nation.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -180,7 +180,7 @@ questions = [
         }
     },
     {
-        "question": "It is more important to retain peaceful relations than to further our strength.",
+        "question": "Multiculturalism enhances all cultures.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -189,25 +189,25 @@ questions = [
         }
     },
     {
-        "question": "Wars do not need to be justified to other countries.",
+        "question": "Governmental policies do not need to be justified to foreign countries.",
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": -10,
+            "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "Military spending is a waste of money.",
+        "question": "Veterans do not deserve special privilages.",
         "effect": {
             "econ": 0,
             "dipl": 10,
-            "govt": 10,
-            "scty": 0
+            "govt": 0,
+            "scty": 5
         }
     },
     {
-        "question": "International aid is a waste of money.",
+        "question": "There is a rootless international clique that is attempting to undermine our national sovreignty.",
         "effect": {
             "econ": -5,
             "dipl": -10,
@@ -216,16 +216,7 @@ questions = [
         }
     },
     {
-        "question": "My nation is great.",
-        "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Research should be conducted on an international scale.",
+        "question": "I would fly a pride flag before I would fly a national flag.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -234,7 +225,7 @@ questions = [
         }
     },
     {
-        "question": "Governments should be accountable to the international community.",
+        "question": "An international league of democracies commited to mutual defense is something I would support.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -243,16 +234,25 @@ questions = [
         }
     },
     {
-        "question": "Even when protesting an authoritarian government, violence is not acceptable.",
+        "question": "International law is important.",
         "effect": {
             "econ": 0,
-            "dipl": 5,
-            "govt": -5,
+            "dipl": 10,
+            "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "My religious values should be spread as much as possible.",
+        "question": "It doesn't bother me if an immigrant flies the flag of their home country rather than the national flag.",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 5
+        }
+    },
+    {
+        "question": "Social progress must exist on an international scale.",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -261,25 +261,43 @@ questions = [
         }
     },
     {
-        "question": "Our nation's values should be spread as much as possible.",
+        "question": "International organisations created to combat climate change have a positive effect of the world.",
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": -5,
+            "govt": 0,
+            "scty": -10
+        }
+    },
+    {
+        "question": "A government that cannot preveserve law and order is illegitimate.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 5,
+            "scty": 5
+        }
+    },
+    {
+        "question": "Big tech companies poses a threat to our civil liberties.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 10,
             "scty": 0
         }
     },
     {
-        "question": "It is very important to maintain law and order.",
+        "question": "Public nudity should not be illegal.",
         "effect": {
             "econ": 0,
-            "dipl": -5,
-            "govt": -10,
-            "scty": -5
+            "dipl": 0,
+            "govt": 10,
+            "scty": 10
         }
     },
     {
-        "question": "The general populace makes poor decisions.",
+        "question": "To conquer a nation, first disarm its citizens.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -288,7 +306,7 @@ questions = [
         }
     },
     {
-        "question": "Physician-assisted suicide should be legal.",
+        "question": "A morally good dictator must take charge to bring our people into an era of prosperity.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -297,25 +315,7 @@ questions = [
         }
     },
     {
-        "question": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Government surveillance is necessary in the modern world.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "The very existence of the state is a threat to our liberty.",
+        "question": "The ends usually justify the means.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -328,17 +328,17 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": -10,
-            "scty": -5
+            "govt": -2,
+            "scty": 0
         }
     },
     {
-        "question": "All authority should be questioned.",
+        "question": "Direct election of judge is a good idea.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 10,
-            "scty": 5
+            "scty": 2
         }
     },
     {
