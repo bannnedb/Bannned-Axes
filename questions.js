@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "A progressive taxation system is preferable to a capitalist taxation system.",
+        "question": "A progressive taxation system is preferable to a flat taxation system.",
         "effect": {
             "econ": 10,
             "dipl": 0,
