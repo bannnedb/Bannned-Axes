@@ -270,7 +270,7 @@ questions = [
         }
     },
     {
-        "question": "The government should be able to monitor terrorists.",
+        "question": "The government should be able to monitor potential terrorists.",
         "effect": {
             "econ": 0,
             "dipl": 0,
