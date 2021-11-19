@@ -18,7 +18,7 @@ questions = [
         }
     },
     {
-        "question": "Excessive government intervention poses a severe threat to the economy.",
+        "question": "Excessive government intervention poses a threat to the economy.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -81,7 +81,7 @@ questions = [
         }
     },
     {
-        "question": "The very rich should pay the majority of their income in taxes.",
+        "question": "The rich should pay the majority of their income in taxes.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -108,10 +108,10 @@ questions = [
         }
     },
     {
-        "question": "Free trade is bad because it endangers our national sovereignty.",
+        "question": "Free trade is a bad policy.",
         "effect": {
-            "econ": 10,
-            "dipl": -10,
+            "econ": 7,
+            "dipl": -7,
             "govt": 0,
             "scty": 0
         }
@@ -135,7 +135,7 @@ questions = [
         }
     },
     {
-        "question": "I would support a moratorium immigration.",
+        "question": "I would support a moratorium on all immigration.",
         "effect": {
             "econ": 0,
             "dipl": -15,
@@ -174,7 +174,7 @@ questions = [
         "question": "Foreign aid is a waste of money.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": -10,
             "govt": 0,
             "scty": 0
         }
@@ -203,7 +203,7 @@ questions = [
             "econ": 0,
             "dipl": 7,
             "govt": 0,
-            "scty": 10
+            "scty": 7
         }
     },
     {
@@ -270,20 +270,20 @@ questions = [
         }
     },
     {
-        "question": "A government that cannot preserve law and order is illegitimate.",
+        "question": "The government should be able to monitor terrorists.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": -5,
-            "scty": -5
+            "scty": 0
         }
     },
     {
-        "question": "Liberty is the ultimate good.",
+        "question": "A police force is necessary for a functioning society.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
+            "govt": 7,
             "scty": 0
         }
     },
@@ -333,7 +333,7 @@ questions = [
         }
     },
     {
-        "question": "Direct democracy is the ideal form of government.",
+        "question": "Direct democracy is an ideal form of government.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -342,7 +342,7 @@ questions = [
         }
     },
     {
-        "question": "The non-aggression principle should form the basis of all legislation.",
+        "question": "The non-aggression principle should form the basis of all laws.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -351,11 +351,11 @@ questions = [
         }
     },
     {
-        "question": "Nobody has the right to discriminate against anyone on the basis of any immutable characteristics.",
+        "question": "Nobody has the right to discriminate against anyone for believing in the wrong god.",
         "effect": {
-            "econ": 7,
+            "econ": 0,
             "dipl": 0,
-            "govt": 7,
+            "govt": 0,
             "scty": 7
         }
     },
@@ -378,11 +378,11 @@ questions = [
         }
     },
     {
-        "question": "Racists are bad people.",
+        "question": "Racists should be publicly shamed and harassed.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 0,
+            "govt": 7,
             "scty": 10
         }
     },
@@ -391,7 +391,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 5,
+            "govt": 7,
             "scty": 0
         }
     },
@@ -400,7 +400,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
+            "govt": 10,
             "scty": 0
         }
     },
@@ -423,7 +423,7 @@ questions = [
         }
     },
     {
-        "question": "Race mixing is disgusting.",
+        "question": "Interracial marriages should be locked down upon by society.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -452,7 +452,7 @@ questions = [
     {
         "question": "Affirmative action for racial minorities is a good policy.",
         "effect": {
-            "econ": 2,
+            "econ": 0,
             "dipl": 0,
             "govt": 0,
             "scty": 10
@@ -463,7 +463,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 4,
+            "govt": -4,
             "scty": -10
         }
     },
@@ -536,7 +536,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": -7
+            "scty": 7
         }
     },
     {
@@ -581,7 +581,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": 15
         }
     },
     {
@@ -603,12 +603,12 @@ questions = [
         }
     },
     {
-        "question": "It is immoral to dress as the opposite sex.",
+        "question": "Women are better off as homemakers.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": -10
         }
     },
     {
