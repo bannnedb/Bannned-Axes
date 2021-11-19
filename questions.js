@@ -279,7 +279,7 @@ questions = [
         }
     },
     {
-        "question": "A police force is necessary for a functioning society.",
+        "question": "A police force is a necessary part of a functioning society.",
         "effect": {
             "econ": 0,
             "dipl": 0,
