@@ -423,7 +423,7 @@ questions = [
         }
     },
     {
-        "question": "Interracial marriages should be locked down upon by society.",
+        "question": "Interracial marriages should be looked down upon by society.",
         "effect": {
             "econ": 0,
             "dipl": 0,
