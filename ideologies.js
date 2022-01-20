@@ -315,6 +315,15 @@ ideologies = [
         }
     },
     {
+        "name": "Theocratic Monarchism",
+        "stats": {
+            "econ": 65,
+            "dipl": 5,
+            "govt": 20,
+            "scty": 5
+        }
+    },
+    {
         "name": "Falangism",
         "stats": {
             "econ": 60,
