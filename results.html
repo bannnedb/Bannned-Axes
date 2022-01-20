@@ -48,7 +48,6 @@
     <img id="img-progress" src="value_images/progress.png" height="128pt"/>
 </div>
 <h2>Closest Match: <span class="weight-300" id="ideology-label"></span></h2>
-<canvas id="banner" width=800 height=650 style="font-family:Noto+Sans+Mono"></canvas>
 <p>You can send these results by copying and pasting the URL at the top of the page or using the image below.</p>
 <hr/>
 <img src="" id="banner">
@@ -138,13 +137,7 @@
         }
     }
 
-    window.onload = function() {
-        var c = document.createElement("canvas")
-        var ctx = c.getContext("2d")
-        c.width = 800;
-        c.height = 650;
-        ctx.fillStyle = "#EEEEEE"
-        ctx.fillRect(0,0,800,650);
+<canvas id="banner" width=800 height=650 style="font-family:Noto+Sans+Mono"></canvas>
 
         img = document.getElementById("img-equality")
         ctx.drawImage(img, 20, 170, 100, 100);
