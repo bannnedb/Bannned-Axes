@@ -137,8 +137,14 @@
         }
     }
 
-<canvas id="banner" width=800 height=650 style="font-family:Noto+Sans+Mono"></canvas>
-
+    window.onload = function() {
+        var c = document.createElement("canvas")
+        var ctx = c.getContext("2d")
+        c.width = 800;
+        c.height = 650;
+        ctx.fillStyle = "#EEEEEE"
+        ctx.fillRect(0,0,800,650);
+	    
         img = document.getElementById("img-equality")
         ctx.drawImage(img, 20, 170, 100, 100);
         img = document.getElementById("img-wealth")
