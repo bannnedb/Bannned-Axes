@@ -20,8 +20,8 @@ ideologies = [
     {
         "name": "Paleoconservatism",
         "stats": {
-            "econ": 35,
-            "dipl": 15,
+            "econ": 40,
+            "dipl": 20,
             "govt": 30,
             "scty": 20
         }
@@ -191,7 +191,7 @@ ideologies = [
     {
         "name": "Anarcho-Socialism",
         "stats": {
-            "econ": 80,
+            "econ": 70,
             "dipl": 80,
             "govt": 90,
             "scty": 80
@@ -211,7 +211,7 @@ ideologies = [
         "stats": {
             "econ": 0,
             "dipl": 50,
-            "govt": 0,
+            "govt": 100,
             "scty": 50
         }
     },
@@ -222,6 +222,96 @@ ideologies = [
             "dipl": 40,
             "govt": 35,
             "scty": 35
+        }
+    },
+    {
+        "name": "Libertarian Communism",
+        "stats": {
+            "econ": 100,
+            "dipl": 75,
+            "govt": 75,
+            "scty": 75
+        }
+    },
+    {
+        "name": "Anarcho-Communism",
+        "stats": {
+            "econ": 100,
+            "dipl": 75,
+            "govt": 100,
+            "scty": 75
+        }
+    },
+    {
+        "name": "National Socialism",
+        "stats": {
+            "econ": 50,
+            "dipl": 5,
+            "govt": 10,
+            "scty": 20
+        }
+    },
+    {
+        "name": "Social Democracy",
+        "stats": {
+            "econ": 60,
+            "dipl": 70,
+            "govt": 30,
+            "scty": 70
+        }
+    },
+    {
+        "name": "Center-Libertarianism",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 75,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Bleeding-Heart Libertarianism",
+        "stats": {
+            "econ": 60,
+            "dipl": 75,
+            "govt": 75,
+            "scty": 75
+        }
+    },
+    {
+        "name": "Egoism",
+        "stats": {
+            "econ": 40,
+            "dipl": 50,
+            "govt": 100,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Anarcho-Primitivism",
+        "stats": {
+            "econ": 60,
+            "dipl": 50,
+            "govt": 100,
+            "scty": 30
+        }
+    },
+    {
+        "name": "Authoritarian Capitalism",
+        "stats": {
+            "econ": 25,
+            "dipl": 30,
+            "govt": 15,
+            "scty": 45
+        }
+    },
+    {
+        "name": "National Capitalism",
+        "stats": {
+            "econ": 5,
+            "dipl": 15,
+            "govt": 5,
+            "scty": 15
         }
     },
     {
