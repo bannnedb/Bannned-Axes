@@ -219,7 +219,7 @@ questions = [
         "question": "An ideal nation would avoid forming alliances.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": -10,
             "govt": 0,
             "scty": 0
         }
