@@ -324,6 +324,15 @@ ideologies = [
         }
     },
     {
+        "name": "Left-wing Nationalism",
+        "stats": {
+            "econ": 70,
+            "dipl": 30,
+            "govt": 40,
+            "scty": 50
+        }
+    },
+    {
         "name": "Falangism",
         "stats": {
             "econ": 60,
