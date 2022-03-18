@@ -9,6 +9,15 @@ ideologies = [
         }
     },
     {
+        "name": "Conservative Centrism",
+        "stats": {
+            "econ": 50,
+            "dipl": 25,
+            "govt": 50,
+            "scty": 25
+        }
+    },
+    {
         "name": "Catholic Integralism",
         "stats": {
             "econ": 60,
@@ -24,6 +33,15 @@ ideologies = [
             "dipl": 20,
             "govt": 30,
             "scty": 20
+        }
+    },
+    {
+        "name": "Authoritarian Conservatism",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 25,
+            "scty": 25
         }
     },
     {
@@ -50,7 +68,25 @@ ideologies = [
             "econ": 65,
             "dipl": 25,
             "govt": 30,
+            "scty": 35
+        }
+    },
+    {
+        "name": "Conservative Socialism",
+        "stats": {
+            "econ": 70,
+            "dipl": 25,
+            "govt": 75,
             "scty": 25
+        }
+    },
+    {
+        "name": "Reactionary Socialism",
+        "stats": {
+            "econ": 70,
+            "dipl": 20,
+            "govt": 80,
+            "scty": 10
         }
     },
     {
@@ -69,6 +105,15 @@ ideologies = [
             "dipl": 15,
             "govt": 60,
             "scty": 15
+        }
+    },
+    {
+        "name": "Conservative Liberalism",
+        "stats": {
+            "econ": 25,
+            "dipl": 30,
+            "govt": 50,
+            "scty": 30
         }
     },
     {
