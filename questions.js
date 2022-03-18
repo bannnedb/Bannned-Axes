@@ -18,6 +18,24 @@ questions = [
         }
     },
     {
+        "question": "A market economy is the most effective way to combat scarcity.",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "The value of a consumer product is determined by the demand for it, not the labour that created it.",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
         "question": "Excessive government intervention poses a threat to the economy.",
         "effect": {
             "econ": -10,
@@ -54,6 +72,15 @@ questions = [
         }
     },
     {
+        "question": "A tax on the inheretance of the rich is a good policy.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
         "question": "The practice of usury should be banned.",
         "effect": {
             "econ": 10,
@@ -82,6 +109,15 @@ questions = [
     },
     {
         "question": "The rich should pay the majority of their income in taxes.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Natural resources should be held in collective ownership.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -229,7 +265,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 10,
-            "govt": 5,
+            "govt": 0,
             "scty": 0
         }
     },
@@ -274,7 +310,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -5,
+            "govt": -10,
             "scty": 0
         }
     },
@@ -306,7 +342,34 @@ questions = [
         }
     },
     {
+        "question": "The ordinary citizen does not have a right to govern himself.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "We should aim to control and regulate thought.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+    {
         "question": "A centralised government is ideal.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "The act of disrespecting a ruler should earn the offender a serve punishment.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -351,6 +414,15 @@ questions = [
         }
     },
     {
+        "question": "There should exist a legally-enforced age of consent.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -7,
+            "scty": 0
+        }
+    },
+    {
         "question": "Nobody has the right to discriminate against anyone for believing in the wrong god.",
         "effect": {
             "econ": 0,
@@ -360,29 +432,29 @@ questions = [
         }
     },
     {
-        "question": "Sodomy should be illegal.",
+        "question": "Sodomy should be punished, whether by the state, community or private sector.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
-            "scty": -15
-        }
-    },
-    {
-        "question": "Adultery should be illegal.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
+            "govt": 0,
             "scty": -10
         }
     },
     {
-        "question": "Racists should be publicly shamed and harassed.",
+        "question": "Adultery should be punished, whether by the state, community or private sector.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 7,
+            "govt": 0,
+            "scty": -10
+        }
+    },
+    {
+        "question": "Racism should be punished, whether by the state, community or private sector.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
             "scty": 10
         }
     },
@@ -401,6 +473,33 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "There is something admirable about a strong leader, regardless of his policies.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Only a strong government can create a prosperous society.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -15,
+            "scty": 0
+        }
+    },
+    {
+        "question": "I care more about my safety than my civil liberties.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -15,
             "scty": 0
         }
     },
@@ -463,8 +562,17 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -4,
+            "govt": 0,
             "scty": -10
+        }
+    },
+    {
+        "question": "People of different religions should be allowed to practice their faiths publically.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 5,
+            "scty": 5
         }
     },
     {
@@ -495,29 +603,29 @@ questions = [
         }
     },
     {
-        "question": "Marijuana use should be illegal.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 12,
-            "scty": -10
-        }
-    },
-    {
-        "question": "Prostitution should be legal.",
+        "question": "Marijuana use should be punished, whether by the state, community or private sector.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": -10
         }
     },
     {
-        "question": "Prematrital sex should be illegal.",
+        "question": "Prostitution should be punished, whether by the state, community or private sector.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
+            "govt": 0,
+            "scty": -15
+        }
+    },
+    {
+        "question": "I have no interest in sex with someone who is not my spouse.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
             "scty": -10
         }
     },
@@ -531,12 +639,12 @@ questions = [
         }
     },
     {
-        "question": "Climate change is real.",
+        "question": "Every person should be able to determine their own concept of existance.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 0,
-            "scty": 7
+            "govt": 7,
+            "scty": 0
         }
     },
     {
