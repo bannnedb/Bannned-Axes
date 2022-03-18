@@ -279,30 +279,39 @@ ideologies = [
         }
     },
     {
+        "name": "Progressive Libertarian Capitalism",
+        "stats": {
+            "econ": 30,
+            "dipl": 70,
+            "govt": 70,
+            "scty": 70
+        }
+    },
+    {
         "name": "Bleeding-Heart Libertarianism",
         "stats": {
             "econ": 60,
             "dipl": 75,
             "govt": 75,
-            "scty": 75
+            "scty": 85
         }
     },
     {
         "name": "Egoism",
         "stats": {
             "econ": 40,
-            "dipl": 50,
+            "dipl": 80,
             "govt": 100,
-            "scty": 50
+            "scty": 60
         }
     },
     {
-        "name": "Anarcho-Primitivism",
+        "name": "Anarchism",
         "stats": {
-            "econ": 60,
+            "econ": 50,
             "dipl": 50,
             "govt": 100,
-            "scty": 30
+            "scty": 50
         }
     },
     {
@@ -333,15 +342,6 @@ ideologies = [
         }
     },
     {
-        "name": "Hoppeanism",
-        "stats": {
-            "econ": 25,
-            "dipl": 25,
-            "govt": 80,
-            "scty": 25
-        }
-    },
-    {
         "name": "Left-wing Nationalism",
         "stats": {
             "econ": 70,
@@ -357,6 +357,15 @@ ideologies = [
             "dipl": 30,
             "govt": 20,
             "scty": 10
+        }
+    },
+    {
+        "name": "Authoritarian Progressivism",
+        "stats": {
+            "econ": 60,
+            "dipl": 35,
+            "govt": 30,
+            "scty": 75
         }
     },
     {
