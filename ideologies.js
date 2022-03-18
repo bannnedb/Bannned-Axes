@@ -254,9 +254,18 @@ ideologies = [
     {
         "name": "Social Democracy",
         "stats": {
-            "econ": 60,
+            "econ": 65,
             "dipl": 70,
-            "govt": 30,
+            "govt": 40,
+            "scty": 70
+        }
+    },
+    {
+        "name": "Democratic Socialism",
+        "stats": {
+            "econ": 75,
+            "dipl": 70,
+            "govt": 40,
             "scty": 70
         }
     },
@@ -315,12 +324,21 @@ ideologies = [
         }
     },
     {
-        "name": "Theocratic Monarchism",
+        "name": "Hoppeanism",
         "stats": {
-            "econ": 65,
-            "dipl": 5,
-            "govt": 20,
-            "scty": 5
+            "econ": 25,
+            "dipl": 25,
+            "govt": 80,
+            "scty": 25
+        }
+    },
+    {
+        "name": "Hoppeanism",
+        "stats": {
+            "econ": 25,
+            "dipl": 25,
+            "govt": 80,
+            "scty": 25
         }
     },
     {
@@ -330,6 +348,15 @@ ideologies = [
             "dipl": 30,
             "govt": 45,
             "scty": 50
+        }
+    },
+    {
+        "name": "Reactionary Traditionalism",
+        "stats": {
+            "econ": 60,
+            "dipl": 30,
+            "govt": 20,
+            "scty": 10
         }
     },
     {
