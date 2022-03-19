@@ -18,6 +18,15 @@ ideologies = [
         }
     },
     {
+        "name": "Libertarian Nationalism",
+        "stats": {
+            "econ": 40,
+            "dipl": 15,
+            "govt": 75,
+            "scty": 50
+        }
+    },
+    {
         "name": "Catholic Integralism",
         "stats": {
             "econ": 60,
